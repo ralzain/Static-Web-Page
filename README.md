@@ -1,4 +1,4 @@
-Static-Web-Page
+Web-Page
 ===============
 
-Static Web Page to be used for web application development
+Web Page built entirely using HTML/CSS/jQuery. Make sure to download all three files into one folder to ensure functionality.
