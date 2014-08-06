@@ -8,7 +8,7 @@ header, main, footer {
 }
 
 header .container, main .container, footer .container {
-  max-width: 855px;
+  max-width: 865px;
   margin: auto;
 }
 
@@ -29,6 +29,7 @@ h1 {
   width: 570px;
 }
 
+img{margin: 12%;}
 /* FOOTER HEADINGS */
 h5 {
     font-family: 'Ubuntu', sans-serif;
