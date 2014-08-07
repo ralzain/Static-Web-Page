@@ -93,21 +93,12 @@ footer .contact p:nth-child(2) {
 
 footer .sitemap {
     float: right;
-    width: 285px;
+    width: 100px;
 }
 
-footer ul {
-    width: 230px;
-}
+
 
 li {
     list-style: none;
 }
 
-footer .sitemap .left {
-    float: left;
-}
-
-footer .sitemap .right {
-    float: right;
-}
